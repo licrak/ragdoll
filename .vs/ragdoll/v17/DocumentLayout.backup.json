@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\ragdoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\RagdollController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\RagdollController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\Kevin Iglesias\\Basic Motions\\_DemoScene\\Scripts\\BasicMotionsAnimatorStateChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Kevin Iglesias\\Basic Motions\\_DemoScene\\Scripts\\BasicMotionsAnimatorStateChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\c#\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\c#\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\c#\\RagdollSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\c#\\RagdollSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\ragdoll\\Assets\\c#\\RagdollSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\c#\\RagdollSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RagdollController.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\RagdollController.cs",
+              "RelativeDocumentMoniker": "Assets\\RagdollController.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\RagdollController.cs",
+              "RelativeToolTip": "Assets\\RagdollController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAxwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:23:39.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "control.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\c#\\control.cs",
+              "RelativeDocumentMoniker": "Assets\\c#\\control.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\c#\\control.cs",
+              "RelativeToolTip": "Assets\\c#\\control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:00:05.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cs.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\cs.cs",
+              "RelativeDocumentMoniker": "Assets\\cs.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\cs.cs",
+              "RelativeToolTip": "Assets\\cs.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:57:40.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "control.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\control.cs",
+              "RelativeDocumentMoniker": "Assets\\control.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\control.cs",
+              "RelativeToolTip": "Assets\\control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:49:32.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicMotionsAnimatorStateChanger.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\Kevin Iglesias\\Basic Motions\\_DemoScene\\Scripts\\BasicMotionsAnimatorStateChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Kevin Iglesias\\Basic Motions\\_DemoScene\\Scripts\\BasicMotionsAnimatorStateChanger.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\Kevin Iglesias\\Basic Motions\\_DemoScene\\Scripts\\BasicMotionsAnimatorStateChanger.cs",
+              "RelativeToolTip": "Assets\\Kevin Iglesias\\Basic Motions\\_DemoScene\\Scripts\\BasicMotionsAnimatorStateChanger.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwB0AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:01:27.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RagdollSpawner.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\c#\\RagdollSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\c#\\RagdollSpawner.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\c#\\RagdollSpawner.cs",
+              "RelativeToolTip": "Assets\\c#\\RagdollSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:56:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RagdollSetup.cs",
+              "DocumentMoniker": "D:\\unity\\ragdoll\\Assets\\c#\\RagdollSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\c#\\RagdollSetup.cs",
+              "ToolTip": "D:\\unity\\ragdoll\\Assets\\c#\\RagdollSetup.cs",
+              "RelativeToolTip": "Assets\\c#\\RagdollSetup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:56:06.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
